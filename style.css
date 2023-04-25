@@ -1,0 +1,52 @@
+.body{
+    background-image:pn6png;
+}
+
+
+.navbar{
+    text-decoration: none;
+    gap: 5%;
+    list-style: none;
+    padding-inline-start: 5%;
+    padding-inline: 3%;
+}
+.general{
+grid-template-columns: repeat(2,1fr);
+display: grid;
+}
+.words{
+ margin-left: 15%;
+ height: 10%;
+ margin-top: 10%;
+   
+}
+.but5{
+border-radius: 10%;
+border: none;
+background-color: greenyellow;
+padding: 3%;
+}
+
+
+
+.image{
+    margin-top: 10%;
+}
+.words2{
+    margin-left: 5%;
+    padding: 5%;
+   
+}
+.w{
+    margin-bottom: 5%;
+    border-radius: 20%;
+    
+}
+.z{
+    margin-bottom: 5%;
+    border-radius: 20%; 
+}
+.words3{
+    display: grid;
+    grid-template-columns: repeat(2,1);
+}
